@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*Spy.class
+
+bin/
+lib/
+include/
+.vscode/
+share/
+Scripts/
+
